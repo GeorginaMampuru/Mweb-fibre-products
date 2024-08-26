@@ -32,7 +32,26 @@ src/
    ```bash
    npm install
 3. Start the application:
+4. ```bash
 npm run dev
+## Axios Installation and Setup
+
+Follow these steps to install and set up Axios for making HTTP requests in your project.
+
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+- Node.js (version 14.x or higher)
+- npm (version 6.x or higher)
+
+### Installation Steps
+
+1. **Install Axios**
+
+   Install Axios using npm:
+   ```bash
+   npm install axios
 
 ##Usage
 Provider Filter: Select one or more providers to filter the products.
